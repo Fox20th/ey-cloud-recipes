@@ -11,7 +11,7 @@
 # require_recipe "memcached"
 
 #uncomment ot run the riak recipe
-# require_recipe "riak"
+ require_recipe "riak"
 
 #uncomment to run the authorized_keys recipe
 #require_recipe "authorized_keys"
